@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A3F954E4-9E66-49A9-822C-AD8696C93C6E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mszupke/Projects/EasyStorage/Updater/Updater/Program.cs" relfile="Updater/Program.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Updater PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Updater/Program.cs">
+    <Files>
+      <File FileName="Updater/Options/ApplicationUpdaterOptions.cs" Line="6" Column="43" />
+      <File FileName="Updater/Program.cs" Line="11" Column="53" />
+      <File FileName="Updater/Utils/DirectoryInfoComparator.cs" Line="7" Column="59" />
+      <File FileName="Updater/Utils/VersionExtensions.cs" Line="8" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Updater" expanded="True" selected="True">
+            <Node name="Updater" expanded="True">
+              <Node name="Options" expanded="True" />
+              <Node name="Utils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
